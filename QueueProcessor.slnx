@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/QueueProcessor.Application/QueueProcessor.Application.csproj" />
+    <Project Path="src/QueueProcessor.Domain/QueueProcessor.Domain.csproj" />
+    <Project Path="src/QueueProcessor.Infrastructure/QueueProcessor.Infrastructure.csproj" />
+    <Project Path="src/QueueProcessor.Worker/QueueProcessor.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/QueueProcessor.Tests/QueueProcessor.Tests.csproj" />
+  </Folder>
+</Solution>

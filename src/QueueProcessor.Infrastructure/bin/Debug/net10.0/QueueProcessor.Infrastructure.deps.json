@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "QueueProcessor.Infrastructure/1.0.0": {
+        "dependencies": {
+          "QueueProcessor.Application": "1.0.0",
+          "QueueProcessor.Domain": "1.0.0"
+        },
+        "runtime": {
+          "QueueProcessor.Infrastructure.dll": {}
+        }
+      },
+      "QueueProcessor.Application/1.0.0": {
+        "dependencies": {
+          "QueueProcessor.Domain": "1.0.0"
+        },
+        "runtime": {
+          "QueueProcessor.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "QueueProcessor.Domain/1.0.0": {
+        "runtime": {
+          "QueueProcessor.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QueueProcessor.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QueueProcessor.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QueueProcessor.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

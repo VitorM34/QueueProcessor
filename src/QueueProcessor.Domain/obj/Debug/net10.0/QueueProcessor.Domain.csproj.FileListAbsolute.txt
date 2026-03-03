@@ -1,0 +1,12 @@
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/bin/Debug/net10.0/QueueProcessor.Domain.deps.json
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/bin/Debug/net10.0/QueueProcessor.Domain.dll
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/bin/Debug/net10.0/QueueProcessor.Domain.pdb
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/obj/Debug/net10.0/QueueProcessor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/obj/Debug/net10.0/QueueProcessor.Domain.AssemblyInfoInputs.cache
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/obj/Debug/net10.0/QueueProcessor.Domain.AssemblyInfo.cs
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/obj/Debug/net10.0/QueueProcessor.Domain.csproj.CoreCompileInputs.cache
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/obj/Debug/net10.0/QueueProcessor.Domain.sourcelink.json
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/obj/Debug/net10.0/QueueProcessor.Domain.dll
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/obj/Debug/net10.0/refint/QueueProcessor.Domain.dll
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/obj/Debug/net10.0/QueueProcessor.Domain.pdb
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Domain/obj/Debug/net10.0/ref/QueueProcessor.Domain.dll

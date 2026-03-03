@@ -1,0 +1,16 @@
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/bin/Debug/net10.0/QueueProcessor.Application.deps.json
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/bin/Debug/net10.0/QueueProcessor.Application.dll
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/bin/Debug/net10.0/QueueProcessor.Application.pdb
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/bin/Debug/net10.0/QueueProcessor.Domain.dll
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/bin/Debug/net10.0/QueueProcessor.Domain.pdb
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/obj/Debug/net10.0/QueueProcessor.Application.csproj.AssemblyReference.cache
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/obj/Debug/net10.0/QueueProcessor.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/obj/Debug/net10.0/QueueProcessor.Application.AssemblyInfoInputs.cache
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/obj/Debug/net10.0/QueueProcessor.Application.AssemblyInfo.cs
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/obj/Debug/net10.0/QueueProcessor.Application.csproj.CoreCompileInputs.cache
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/obj/Debug/net10.0/QueueProcessor.Application.sourcelink.json
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/obj/Debug/net10.0/QueuePro.4C375C35.Up2Date
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/obj/Debug/net10.0/QueueProcessor.Application.dll
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/obj/Debug/net10.0/refint/QueueProcessor.Application.dll
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/obj/Debug/net10.0/QueueProcessor.Application.pdb
+/Users/macbookpro/projects/C#/QueueProcessor/src/QueueProcessor.Application/obj/Debug/net10.0/ref/QueueProcessor.Application.dll
